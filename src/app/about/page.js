@@ -7,7 +7,6 @@ const AboutPage = () => {
             <h1>
                 this is about section
             </h1>
-            <MeetOurTeam></MeetOurTeam>
         </div>
     );
 };
