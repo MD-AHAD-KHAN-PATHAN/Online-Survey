@@ -12,7 +12,7 @@ const Navbar = () => {
     </>
 
     return (
-        <div className="border-b-inherit border-2">
+        <div className="border-b-inherit border-2 pb-3">
            <div className="navbar bg-base-100">
   <div className="navbar-start">
     <div className="dropdown">
