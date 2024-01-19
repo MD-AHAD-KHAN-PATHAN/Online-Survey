@@ -1,11 +1,12 @@
-import React from 'react';
+import Support from '@/components/Support/Support';
+import Team from '@/components/Team/Team';
+
 
 const AboutPage = () => {
     return (
         <div>
-            <h1>
-                this is about section
-            </h1>
+            <Team></Team>
+            <Support></Support>
         </div>
     );
 };
